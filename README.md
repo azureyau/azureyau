@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azureyau
+- 👋 Hi, I’m Jeff Yau
 - 👀 I’m interested in programing and playing bridge.
 - 🌱 I’m currently studying computer programming & analysis in Toronto
 - 💞️ I’m looking for a co-op position related to software engineer and/or WEB development for fall 2024 
